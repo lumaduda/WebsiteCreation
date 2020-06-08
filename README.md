@@ -7,7 +7,7 @@ Then, start saying:
 <!DOCTYPE html>
 <html>
 <head>
-  <h1>This is a heading</h1>
+  <h1></h1
   <p>This is a paragraph</p>
   <title>This is a title</title>
 </head>
