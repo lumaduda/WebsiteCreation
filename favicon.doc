@@ -1,0 +1,6 @@
+#WebsiteCreation README2
+
+Welome Github people. Again, I am here to tell you how to make a favicon next to your title in HTML.
+
+First, In the <head> say, <link rel="icon" href="YOUR IMAGE HERE" type="image/gif" sizes="16x16">
+(YOU MUST PUT THE IMAGE INSDIE THE FOLDER OR IT WON'T WORK. IT MUST RECONISE IT)
