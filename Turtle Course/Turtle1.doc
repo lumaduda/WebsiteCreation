@@ -1,0 +1,22 @@
+Welcome to Turtle 1 lesson. Today i will be teaching you how to make a square.
+
+First go to https://trinket.io/
+Then, Click New Trinket
+
+Click Python
+
+Write:
+
+ __import turtle
+ import random
+ t=turtle.Turtle()
+ red=random.randint(0,255)
+ green=random.randint(0,255)
+ blue=random.randint(0,255)
+ t.begin_fill()
+ for i in range(4)
+  t.forward(90)
+  t.right(90)
+ t.end_fill()
+ 
+ Boom. It should work now! If any issues please say the document in issues and i will help!
